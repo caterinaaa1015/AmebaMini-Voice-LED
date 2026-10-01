@@ -1,0 +1,6 @@
+# USB Serial communication
+pyserial>=3.5
+
+# Microphone speech recognition (--mic mode)
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
