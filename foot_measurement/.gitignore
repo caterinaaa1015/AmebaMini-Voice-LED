@@ -1,0 +1,6 @@
+.build/
+foot_captures/
+.venv-foot/
+__pycache__/
+*.pyc
+wifi_secrets.h

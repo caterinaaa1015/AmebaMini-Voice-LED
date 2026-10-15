@@ -1,3 +1,5 @@
+> 新增第二週影像專案：[10 元硬幣輔助腳長量測](foot_measurement/README.md)，提供 Ameba Wi-Fi 韌體、Python 即時預覽與量測介面、操作說明及測試。
+
 # Ameba Mini 語音控制 LED
 
 電腦端接收繁體中文語音，僅接受白名單控制語句，再透過 USB Serial 控制 Ameba Mini 的藍、綠 LED。
